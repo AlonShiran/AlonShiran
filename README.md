@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlonShiran
 - 👀 I’m interested in App Development and programimg
-- 🌱 I’m currently learning FullStack JAVA + App Dev Course in HackeuU College
+- 🌱 I just finished A FullStack JAVA + App Dev Course (600 hours) in HackeuU College
 - 💞️ I’m looking to collaborate on Game Development or programimng
 - 📫 How to reach me throgh here or my LinkedIn Page : Alon Shiran
 
